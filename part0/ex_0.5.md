@@ -1,5 +1,5 @@
 <h1>FSO exercise 0.5</h1>
-<h4>New note in Single page app diagram:</h4>
+<h4>Single page app diagram:</h4>
 
 ```mermaid
 sequenceDiagram
